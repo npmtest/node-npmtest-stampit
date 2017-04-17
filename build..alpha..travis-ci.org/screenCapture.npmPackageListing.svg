@@ -1,31 +1,31 @@
 <svg height="446" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="446" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 12:24:46 +0000   184902 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 12:24:46 +0000     5608 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 12:24:46 +0000     1273 bytes  advanced-examples/cloneable.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 12:24:46 +0000      783 bytes  advanced-examples/event-emitter.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 12:24:46 +0000      565 bytes  advanced-examples/hacking.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 12:24:46 +0000     2881 bytes  advanced-examples/mocking.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 12:24:46 +0000     2050 bytes  advanced-examples/prevalidate.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 12:24:46 +0000      739 bytes  advanced-examples/self-aware.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 12:24:46 +0000     8127 bytes  compose.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 12:24:46 +0000      322 bytes  compose.js.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 12:24:46 +0000    16284 bytes  dist/stampit.full.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 12:24:46 +0000      582 bytes  dist/stampit.full.js.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 12:24:46 +0000    15822 bytes  dist/stampit.mjs</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 12:24:46 +0000    26846 bytes  dist/stampit.mjs.map</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 12:24:46 +0000    16529 bytes  dist/stampit.umd.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 12:24:46 +0000    26879 bytes  dist/stampit.umd.js.map</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 12:24:46 +0000     5288 bytes  dist/stampit.umd.min.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-17 12:24:46 +0000    26304 bytes  docs/API.md</tspan>
-<tspan x="10" y="314"> 18.  2017-04-17 12:24:46 +0000    16141 bytes  docs/advanced_examples.md</tspan>
-<tspan x="10" y="330"> 19.  2017-04-17 12:24:46 +0000     5892 bytes  docs/pjabook-updated-examples.md</tspan>
-<tspan x="10" y="346"> 20.  2017-04-17 12:24:46 +0000      307 bytes  isComposable.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-17 12:24:46 +0000      105 bytes  isComposable.js.map</tspan>
-<tspan x="10" y="378"> 22.  2017-04-17 12:24:46 +0000      416 bytes  isStamp.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-17 12:24:46 +0000      108 bytes  isStamp.js.map</tspan>
-<tspan x="10" y="410"> 24.  2017-04-17 12:24:46 +0000     1079 bytes  license.txt</tspan>
-<tspan x="10" y="426"> 25.  2017-04-17 12:24:46 +0000     3972 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 12:25:44 +0000   184902 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 12:25:44 +0000     5608 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 12:25:44 +0000     1273 bytes  advanced-examples/cloneable.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 12:25:44 +0000      783 bytes  advanced-examples/event-emitter.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 12:25:44 +0000      565 bytes  advanced-examples/hacking.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 12:25:44 +0000     2881 bytes  advanced-examples/mocking.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 12:25:44 +0000     2050 bytes  advanced-examples/prevalidate.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 12:25:44 +0000      739 bytes  advanced-examples/self-aware.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 12:25:44 +0000     8127 bytes  compose.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 12:25:44 +0000      322 bytes  compose.js.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 12:25:44 +0000    16284 bytes  dist/stampit.full.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 12:25:44 +0000      582 bytes  dist/stampit.full.js.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 12:25:44 +0000    15822 bytes  dist/stampit.mjs</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 12:25:44 +0000    26846 bytes  dist/stampit.mjs.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 12:25:44 +0000    16529 bytes  dist/stampit.umd.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 12:25:44 +0000    26879 bytes  dist/stampit.umd.js.map</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 12:25:44 +0000     5288 bytes  dist/stampit.umd.min.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 12:25:44 +0000    26304 bytes  docs/API.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 12:25:44 +0000    16141 bytes  docs/advanced_examples.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 12:25:44 +0000     5892 bytes  docs/pjabook-updated-examples.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 12:25:44 +0000      307 bytes  isComposable.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 12:25:44 +0000      105 bytes  isComposable.js.map</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 12:25:44 +0000      416 bytes  isStamp.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 12:25:44 +0000      108 bytes  isStamp.js.map</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 12:25:44 +0000     1079 bytes  license.txt</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 12:25:44 +0000     3972 bytes  package.json</tspan>
 </text>
 </svg>
