@@ -1,4 +1,7 @@
-# test coverage for  [stampit (v3.1.2)](https://github.com/stampit-org/stampit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stampit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stampit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stampit.svg)](https://travis-ci.org/npmtest/node-npmtest-stampit)
+# npmtest-stampit
+
+#### test coverage for  [stampit (v3.1.2)](https://github.com/stampit-org/stampit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stampit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stampit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stampit.svg)](https://travis-ci.org/npmtest/node-npmtest-stampit)
+
 #### Create objects from reusable, composable behaviors.
 
 [![NPM](https://nodei.co/npm/stampit.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stampit)
